@@ -33,7 +33,13 @@
 * https://blackboxofpm.com/
 * http://everything.pm/
 * https://www.principles.pm/
+* https://www.learnpmwith.me/
 
+
+
+# Metrics 
+* https://blog.innertrends.com
+* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
 
 
 # Insights 
@@ -41,8 +47,6 @@
 
 
 # Product
-* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
-* https://www.learnpmwith.me/
 * https://firstround.com/review/product/
 
 
@@ -80,9 +84,6 @@
 * https://learnui.design/blog/
 * https://principles.adactio.com/
 
-
-# Metrics 
-* https://blog.innertrends.com
 
 Links
 * Silicon Valley Product Group https://svpg.com/
