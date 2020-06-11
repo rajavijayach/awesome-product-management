@@ -110,11 +110,12 @@
 
 
 # Blogs
+
+* https://amplitude.com/blog/search?term=Product
+* https://blog.innertrends.com
 * https://firstround.com/review/how-to-shape-remarkable-products-in-the-messy-middle-of-building-startups/
 * https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
-*  https://amplitude.com/blog
-* https://blog.innertrends.com
 
 
 
