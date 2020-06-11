@@ -42,7 +42,14 @@
 * https://www.goodreads.com/book/show/45143467-product-mindset
 * https://www.goodreads.com/book/show/35274263-the-product-book
 
-# Schools 
+
+# Design
+* https://journey.uxdesign.cc
+* https://growth.design
+* https://learnui.design/blog/
+* https://principles.adactio.com/
+
+# Online Schools 
 * https://www.productschool.com/
 * https://pmschool.io/
 
@@ -96,11 +103,6 @@
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
 
-# Design
-* https://journey.uxdesign.cc
-* https://growth.design
-* https://learnui.design/blog/
-* https://principles.adactio.com/
 
 
 
