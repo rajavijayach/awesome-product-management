@@ -1,1 +1,100 @@
-# awesome-product-management
+
+# Books
+* https://sipreads.com
+
+# Resources
+* https://blackboxofpm.com/
+* http://everything.pm/
+* https://www.principles.pm/
+
+
+
+# Insights 
+*  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world
+
+
+# Product
+* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
+* https://www.learnpmwith.me/
+* https://firstround.com/review/product/
+
+
+# Substack
+* https://turnaround.substack.com/p/product-management-
+
+
+# Comepetitors 
+* https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
+
+# Marketing
+* https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
+
+# Tech
+* http://softwareproductmanagement.co/
+
+# NPS
+* https://www.surveymonkey.com/r/CustObsessArticle
+
+# Growth
+* https://www.growthengblog.com/
+
+# Engagement
+* https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/#close
+* https://clevertap.com/blog/cohort-analysis/
+
+
+# Opportunity
+* http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
+
+
+# Design
+* https://journey.uxdesign.cc
+* https://growth.design
+* https://learnui.design/blog/
+* https://principles.adactio.com/
+
+
+# Metrics 
+* https://blog.innertrends.com
+
+Links
+* Silicon Valley Product Group https://svpg.com/
+* Mind the Product https://www.mindtheproduct.com/
+* 280 Group https://280group.com/
+* Rich Mironov’s Product Bytes https://www.mironov.com/
+* Product Talk https://www.producttalk.org/
+* Strategyzer http://blog.strategyzer.com/
+* Pivot Product Hits https://pivotservices.curated.co/
+* The Clever PM http://www.cleverpm.com/
+* Product Manager HQ https://www.productmanagerhq.com/
+* The Product Coalition https://productcoalition.com/
+* Product Manager Club http://www.productmanagerclub.com/
+* Andrew Chen http://andrewchen.co/
+* Blog of Cindy Alvarez https://www.cindyalvarez.com/
+* The art of product management https://pmblog.quora.com
+* How to be a good product manager https://www.goodproductmanager.com/
+* Aha! Blog http://blog.aha.io/
+* epartment of product https://www.departmentofproduct.com/
+* Product Focus https://www.productfocus.com/blog/
+* Learn PM with me https://www.learnpmwith.me
+
+
+# Blogs
+* https://firstround.com/review/how-to-shape-remarkable-products-in-the-messy-middle-of-building-startups/
+* https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
+* https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
+*  https://amplitude.com/blog
+
+
+https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers/?fbclid=IwAR39z6U441Zf_fpwBH6WOZ3gx80lL1oyDcGWWMhPhzbuGL6ybyvHT79GmG0
+
+
+https://paper.dropbox.com/doc/Product-Management-Resources-wd3lmwnVXal3Z8JrM25pr
+
+
+https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers/?fbclid=IwAR39z6U441Zf_fpwBH6WOZ3gx80lL1oyDcGWWMhPhzbuGL6ybyvHT79GmG0
+
+https://hackernoon.com/cracking-a-b-testing-in-your-product-e63b5897d359
+
+
+
