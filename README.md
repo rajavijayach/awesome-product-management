@@ -1,3 +1,27 @@
+# Learnings
+* Silicon Valley Product Group https://svpg.com/
+* Mind the Product https://www.mindtheproduct.com/
+* 280 Group https://280group.com/
+* Rich Mironov’s Product Bytes https://www.mironov.com/
+* Product Talk https://www.producttalk.org/
+* Strategyzer http://blog.strategyzer.com/
+* Pivot Product Hits https://pivotservices.curated.co/
+* The Clever PM http://www.cleverpm.com/
+* Product Manager HQ https://www.productmanagerhq.com/
+* The Product Coalition https://productcoalition.com/
+* Product Manager Club http://www.productmanagerclub.com/
+* Andrew Chen http://andrewchen.co/
+* Blog of Cindy Alvarez https://www.cindyalvarez.com/
+* The art of product management https://pmblog.quora.com
+* How to be a good product manager https://www.goodproductmanager.com/
+* Aha! Blog http://blog.aha.io/
+* epartment of product https://www.departmentofproduct.com/
+* Product Focus https://www.productfocus.com/blog/
+* Learn PM with me https://www.learnpmwith.me
+* https://blackboxofpm.com/
+* http://everything.pm/
+* https://www.principles.pm/
+
 
 # Books
 * https://www.goodreads.com/book/show/24999344-intercom-on-product-management
@@ -29,11 +53,6 @@
 * https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
 
 
-# Resources
-* https://blackboxofpm.com/
-* http://everything.pm/
-* https://www.principles.pm/
-* https://www.learnpmwith.me/
 
 
 
@@ -84,26 +103,6 @@
 * https://principles.adactio.com/
 
 
-Links
-* Silicon Valley Product Group https://svpg.com/
-* Mind the Product https://www.mindtheproduct.com/
-* 280 Group https://280group.com/
-* Rich Mironov’s Product Bytes https://www.mironov.com/
-* Product Talk https://www.producttalk.org/
-* Strategyzer http://blog.strategyzer.com/
-* Pivot Product Hits https://pivotservices.curated.co/
-* The Clever PM http://www.cleverpm.com/
-* Product Manager HQ https://www.productmanagerhq.com/
-* The Product Coalition https://productcoalition.com/
-* Product Manager Club http://www.productmanagerclub.com/
-* Andrew Chen http://andrewchen.co/
-* Blog of Cindy Alvarez https://www.cindyalvarez.com/
-* The art of product management https://pmblog.quora.com
-* How to be a good product manager https://www.goodproductmanager.com/
-* Aha! Blog http://blog.aha.io/
-* epartment of product https://www.departmentofproduct.com/
-* Product Focus https://www.productfocus.com/blog/
-* Learn PM with me https://www.learnpmwith.me
 
 
 # Blogs
