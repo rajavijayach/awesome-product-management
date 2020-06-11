@@ -1,6 +1,29 @@
 
 # Books
-* https://sipreads.com
+* https://www.goodreads.com/book/show/24999344-intercom-on-product-management
+* https://www.goodreads.com/book/show/18529000-the-mom-test
+* https://www.goodreads.com/book/show/35957157-thinking-in-bets
+* https://www.goodreads.com/book/show/25816925-the-evolution-of-everything
+* https://www.goodreads.com/book/show/25622861-platform-revolution
+* https://www.goodreads.com/book/show/36271740-swipe-to-unlock
+* https://www.goodreads.com/book/show/35249663-inspired
+* https://www.goodreads.com/book/show/22668729-hooked
+* https://www.goodreads.com/book/show/18050143-zero-to-one
+* https://www.goodreads.com/book/show/38242135-ai-superpowers
+* https://www.goodreads.com/book/show/43848929-talking-to-strangers
+* https://www.goodreads.com/book/show/26156469-never-split-the-difference
+* https://www.goodreads.com/book/show/37902327-measure-what-matters
+* https://www.goodreads.com/book/show/38563044-solving-product-design-exercises
+* https://www.goodreads.com/book/show/43205214-ship-it
+* https://www.goodreads.com/book/show/45143467-product-mindset
+* https://www.goodreads.com/book/show/35274263-the-product-book
+
+
+# Interview Preparation 
+* https://www.goodreads.com/book/show/36412681-amazon-product-manager-interview
+* https://www.goodreads.com/book/show/32984007-amazon-product-manager-interview
+* https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
+
 
 # Resources
 * https://blackboxofpm.com/
