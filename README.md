@@ -18,8 +18,12 @@
 * https://www.goodreads.com/book/show/45143467-product-mindset
 * https://www.goodreads.com/book/show/35274263-the-product-book
 
+# Schools 
+* https://www.productschool.com/
+* https://pmschool.io/
 
 # Interview Preparation 
+* https://www.tryexponent.com/pm
 * https://www.goodreads.com/book/show/36412681-amazon-product-manager-interview
 * https://www.goodreads.com/book/show/32984007-amazon-product-manager-interview
 * https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
