@@ -41,6 +41,7 @@
 * https://www.goodreads.com/book/show/43205214-ship-it
 * https://www.goodreads.com/book/show/45143467-product-mindset
 * https://www.goodreads.com/book/show/35274263-the-product-book
+* https://www.productanalyticsplaybook.com
 
 
 # Design
@@ -65,6 +66,7 @@
 
 # Metrics 
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
+
 
 
 # Insights 
