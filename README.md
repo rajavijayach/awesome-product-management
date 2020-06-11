@@ -18,9 +18,9 @@
 * epartment of product https://www.departmentofproduct.com/
 * Product Focus https://www.productfocus.com/blog/
 * Learn PM with me https://www.learnpmwith.me
-* https://blackboxofpm.com/
-* http://everything.pm/
-* https://www.principles.pm/
+* The Black Box of PM https://blackboxofpm.com/
+* Everything PM http://everything.pm/
+* Principles of Product Management https://www.principles.pm/
 
 
 # Books
