@@ -38,7 +38,6 @@
 
 
 # Metrics 
-* https://blog.innertrends.com
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
 
 
@@ -112,6 +111,8 @@ Links
 * https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
 *  https://amplitude.com/blog
+* https://blog.innertrends.com
+
 
 
 https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers/?fbclid=IwAR39z6U441Zf_fpwBH6WOZ3gx80lL1oyDcGWWMhPhzbuGL6ybyvHT79GmG0
