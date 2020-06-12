@@ -70,6 +70,13 @@
 * https://www.productschool.com/
 * https://pmschool.io/
 
+# Communities 
+* Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
+
+# Product Managers 
+* Shreyas Doshi ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
+
+
 # Interview Preparation 
 
 > **Courses**
@@ -82,11 +89,6 @@
 
 > **Articles**
 * https://productmanagerhq.com/product-manager-interview-pre-interview-research/
-
-
-
-
-
 
 
 # Metrics 
@@ -130,11 +132,6 @@
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
 
-# Communities 
-* Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
-
-# Product Managers 
-* Shreyas Doshi ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 # Blogs
 
