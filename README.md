@@ -61,15 +61,15 @@
 
 # Interview Preparation 
 
-> Courses
+> **Courses**
 * https://www.tryexponent.com/pm
 
-> Books
+> **Books**
 * https://www.goodreads.com/book/show/36412681-amazon-product-manager-interview
 * https://www.goodreads.com/book/show/32984007-amazon-product-manager-interview
 * https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
 
-> Articles
+> **Articles**
 * https://productmanagerhq.com/product-manager-interview-pre-interview-research/
 
 
