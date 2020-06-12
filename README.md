@@ -74,7 +74,8 @@
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
 
 # Product Managers 
-* Shreyas Doshi ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
+* Shreyas Doshi -  arly PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
+ ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 
 # Interview Preparation 
