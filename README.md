@@ -1,7 +1,7 @@
 # Welcome to Awesome Product Management
 
 ## Contents 
-* [https://github.com/rajavijayasaradhi/awesome-product-management#learnings](learnings)
+* [Learnings](https://github.com/rajavijayasaradhi/awesome-product-management#learnings)
 
 # Learnings
 * Silicon Valley Product Group https://svpg.com/
