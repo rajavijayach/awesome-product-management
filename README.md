@@ -9,6 +9,8 @@
 * [Blogs](#blogs)
 * [Substack](#substack)
 * [Growth](#growth)
+* [Communities](#communities)
+* [Product Managers](#product-managers)
 * [Jobs](#jobs)
 * [Podcasts](#podcasts)
 
@@ -128,9 +130,11 @@
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
 
+# Communities 
+* Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
 
-
-
+# Product Managers 
+* Shreyas Doshi ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 # Blogs
 
@@ -152,7 +156,3 @@ https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-pro
 
 https://hackernoon.com/cracking-a-b-testing-in-your-product-e63b5897d359
 
-
-
-
-## 
