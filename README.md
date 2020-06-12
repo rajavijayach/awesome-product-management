@@ -2,6 +2,15 @@
 
 ## Contents 
 * [Learnings](#learnings)
+* [Books](#books)
+* [Design](#design)
+* [Online Schools](##online-schools)
+* [Metrics](#metrics)
+* [Blogs](#blogs)
+* [Substack](#substack)
+* [Growth](#growth)
+* [Jobs](#jobs)
+* [Podcasts](#podcasts)
 
 # Learnings
 * Silicon Valley Product Group https://svpg.com/
