@@ -13,6 +13,7 @@
 * [Product Managers](#product-managers)
 * [Jobs](#jobs)
 * [Podcasts](#podcasts)
+* [Twitter Threads](#twitter-threads)
 
 # Learnings
 * Silicon Valley Product Group https://svpg.com/
@@ -76,6 +77,7 @@
 
 # Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
+* ProductSchool ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
 # Product Managers 
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
@@ -136,6 +138,10 @@
 # Opportunity
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
+
+# Twitter Threads
+> **Product Design**
+* [How to design a product that can grow itself 10x in year](https://twitter.com/mikaelcho/status/1270743622619717632)
 
 
 # Blogs
