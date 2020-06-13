@@ -40,8 +40,12 @@
 
 
 # Books
-* https://www.goodreads.com/book/show/24999344-intercom-on-product-management
-* https://www.goodreads.com/book/show/18529000-the-mom-test
+> **Product Management**
+* [Intercom on Product Management](https://www.goodreads.com/book/show/24999344-intercom-on-product-management)
+
+> **Customer Interviews**
+* [The Mom Test](https://www.goodreads.com/book/show/18529000-the-mom-test)
+
 * https://www.goodreads.com/book/show/35957157-thinking-in-bets
 * https://www.goodreads.com/book/show/25816925-the-evolution-of-everything
 * https://www.goodreads.com/book/show/25622861-platform-revolution
