@@ -2,6 +2,8 @@
 
 ## Contents 
 * [Learnings](#learnings)
+* [Podcasts](#podcasts)
+* [Design](#design)
 * [Books](/books)
     - [Building Products](/books/#building-products)
     - [Startups](/books/#startups)
@@ -13,7 +15,10 @@
     - [Metrics](/books/#growth)
     - [Design](/books/#communities)
     - [Useful Books for PMs](/books/#product-managers)
-* [Design](#design)
+* [Interviews](/interviews)
+    * [Courses](/interviews#courses)
+    * [Books](/interviews#books)
+    * [Articles](/interviews#articles)
 * [Online Schools](#online-schools)
 * [Metrics](#metrics)
 * [Blogs](#blogs)
@@ -22,7 +27,6 @@
 * [Communities](#communities)
 * [Product Managers](#product-managers)
 * [Jobs](#jobs)
-* [Podcasts](#podcasts)
 * [Twitter Threads](#twitter-threads)
 
 # Learnings
