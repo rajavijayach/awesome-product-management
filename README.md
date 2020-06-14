@@ -3,7 +3,6 @@
 
 ## Contents 
 * [Learnings](#learnings)
-* [Podcasts](#podcasts)
 * [Design](#design)
 * [Books](/books)
     - [Building Products](/books/#building-products)
@@ -20,13 +19,16 @@
     * [Courses](/interviews#courses)
     * [Books](/interviews#books)
     * [Articles](/interviews#articles)
+* [Twitter Threads](/threads)
+    * [Product Design](/threads/#product-design)
+    * [Product Management](/threads/#product-management)
+    * [Growth](/threads/#growth)
+    * [Mental Models](/threads/#mental-models)
+    * [Interviews](/threads/#interviews)
+    * [Marketing](/threads/#marketing)
+    * [Business](/threads/#business)
 * [Online Schools](#online-schools)
-* [Blogs](/blogs)
-* [Newsletters](#newsletters)
-* [Growth](#growth)
-* [Communities](#communities)
-* [Product Managers](#product-managers)
-* [Jobs](#jobs)
+* [Podcasts](#podcasts)
 * [Tools](/tools)
     * [Chrome User Experience](/tools/#chrome-user-experience)
     * [AB Testing](/tools/#ab-testing)
@@ -39,14 +41,12 @@
     * [URL Generator](/tools/#url-generator)
     * [Wireframing ](/tools/#wireframing)
     * [Rich Text](/tools/#richtext)
-* [Twitter Threads](/threads)
-    * [Product Design](/threads/#product-design)
-    * [Product Management](/threads/#product-management)
-    * [Growth](/threads/#growth)
-    * [Mental Models](/threads/#mental-models)
-    * [Interviews](/threads/#interviews)
-    * [Marketing](/threads/#marketing)
-    * [Business](/threads/#business)
+* [Blogs](/blogs)
+* [Newsletters](#newsletters)
+* [Communities](#communities)
+* [Product Managers](#product-managers)
+* [Jobs](#jobs)
+
 
 
 ## Learnings
@@ -79,11 +79,22 @@
 * https://learnui.design/blog/
 * https://principles.adactio.com/
 
+## [Books](/books)
 
 ## Online Schools 
 * [Product School](https://www.productschool.com)
 * [PM School](https://pmschool.io)
 
+## Podcasts
+
+## [Tools](/tools)
+
+## [Blogs](/blogs)
+
+
+## Newsletters
+* [Product Management ++](https://turnaround.substack.com/p/product-management-)
+* [The Oberver Effect](https://www.theobservereffect.org/)
 
 ## Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
@@ -94,9 +105,41 @@
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
+## Jobs
 
-## Newsletters
-* [Product Management ++](https://turnaround.substack.com/p/product-management-)
-* [The Oberver Effect](https://www.theobservereffect.org/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
