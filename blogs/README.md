@@ -1,4 +1,4 @@
-# Blogs
+# Blog posts 📑
 
 ## Contents 
 * [Building Products](#building-products)
