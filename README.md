@@ -22,7 +22,7 @@
     * [Articles](/interviews#articles)
 * [Online Schools](#online-schools)
 * [Blogs](/blogs)
-* [Newsletter](#newsletter)
+* [Newsletters](#newsletters)
 * [Growth](#growth)
 * [Communities](#communities)
 * [Product Managers](#product-managers)
@@ -89,7 +89,7 @@
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 
-## Newsletter
+## Newsletters
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 
