@@ -29,7 +29,7 @@
 * [Jobs](#jobs)
 * [Twitter Threads](#twitter-threads)
 
-# Learnings
+## Learnings
 * Silicon Valley Product Group https://svpg.com/
 * Mind the Product https://www.mindtheproduct.com/
 * 280 Group https://280group.com/
@@ -54,70 +54,70 @@
 * Principles of Product Management https://www.principles.pm/
 
 
-# Design
+## Design
 * https://journey.uxdesign.cc
 * https://growth.design
 * https://learnui.design/blog/
 * https://principles.adactio.com/
 
-# Online Schools 
+## Online Schools 
 * https://www.productschool.com/
 * https://pmschool.io/
 
-# Communities 
+## Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
 * ProductSchool ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
-# Product Managers 
+## Product Managers 
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 
 
-# Metrics 
-* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
+## Metrics 
+* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals##
 
 
 
-# Insights 
+## Insights 
 *  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world
 
 
-# Product
+## Product
 * https://firstround.com/review/product/
 
 
-# Newsletter
+## Newsletter
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 
 
-# Comepetitors 
+## Comepetitors 
 * https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
 
-# Marketing
+## Marketing
 
 * https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
 
-# Tech
+## Tech
 * http://softwareproductmanagement.co/
 
-# NPS
+## NPS
 * https://www.surveymonkey.com/r/CustObsessArticle
 
-# Growth
+## Growth
 * https://www.growthengblog.com/
 
-# Engagement
-* https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/#close
+## Engagement
+* https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/##close
 * https://clevertap.com/blog/cohort-analysis/
 
 
-# Opportunity
+## Opportunity
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
 
-# Twitter Threads
+## Twitter Threads
 > **Product Design**
 * [How to design a product that can grow itself 10x in year](https://twitter.com/mikaelcho/status/1270743622619717632)
 
