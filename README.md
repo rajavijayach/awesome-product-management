@@ -2,7 +2,7 @@
 
 ## Contents 
 * [Learnings](#learnings)
-* [Books](/tree/master/books)
+* [Books](/books)
 * [Design](#design)
 * [Online Schools](#online-schools)
 * [Metrics](#metrics)
