@@ -4,7 +4,7 @@
 * [Learnings](#learnings)
 * [Books](#books)
 * [Design](#design)
-* [Online Schools](##online-schools)
+* [Online Schools](#online-schools)
 * [Metrics](#metrics)
 * [Blogs](#blogs)
 * [Newsletter](#newsletter)
@@ -42,7 +42,7 @@
 
 # Books
 > **Building Products**
-* [nspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
+* [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
 * [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
 * [Platform Revolution: How Networked Markets Are Transforming the Economy--and How to Make Them Work for You](https://www.goodreads.com/book/show/25622861-platform-revolution)
 
@@ -161,7 +161,6 @@
 
 
 # Blogs
-
 * https://amplitude.com/blog/search?term=Product
 * https://blog.innertrends.com
 * https://firstround.com/review/how-to-shape-remarkable-products-in-the-messy-middle-of-building-startups/
