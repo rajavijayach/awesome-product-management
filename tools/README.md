@@ -1,0 +1,83 @@
+# Tools
+
+## Contents
+* [Chrome User Experience](#chrome-user-experience)
+* [AB Testing](#ab-testing)
+* [Search](#search)
+* [Images Compression / Manipulation ](#images)
+* [Keyword Planner](#keyword-planner)
+* [SEO / Page Optimisation / Page Performance ](#seo)
+* [Website Speed Test](#website-speed-test)
+* [Responsive Testing](#responsive-testing)
+* [URL Generator](#url-generator)
+* [Wireframing ](#wireframing)
+* [Rich Text](#richtext)
+
+
+### Chrome User Experience
+- https://crux.run/
+
+### AB Testing
+- https://optimize.google.com/optimize/home
+
+### Search
+- https://search.google.com/search-console?utm_source=about-page&resource_id=https://www.flynote.in/
+
+
+### Images
+- https://squoosh.app
+- https://vecta.io/nano
+- https://compressimage.toolur.com
+- https://resizeimage.net
+- https://www.remove.bg
+- thumborize.me
+- https://tinypng.com
+
+### Keyword Planner
+- https://ads.google.com/home/tools/keyword-planner/
+
+### SEO
+- https://web.dev/measure
+- https://developers.google.com/speed/pagespeed/insights/
+- https://developers.google.com/search/tools/
+- https://ogp.me
+- Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/u/0/
+- https://smallseotools.com
+
+### Website Speed Test
+- https://tools.pingdom.com/
+
+### Responsive Testing
+- http://g.co/mobilefriendly
+- https://manojvivek.github.io/responsively-app/
+
+
+### URL Generator
+- WhatsApp URL Generator - https://postcron.com/en/blog/landings/whatsapp-link-generator/
+- Campaign URL Builder - https://ga-dev-tools.appspot.com/campaign-url-builder/
+
+### Wireframing
+- https://excalidraw.com
+
+
+### Rich Text
+- https://trix-editor.org/
+
+
+### URL Debugger
+- https://cards-dev.twitter.com/validator
+- https://developers.facebook.com/tools/debug/sharing/
+- http://debug.iframely.com
+
+
+### Research
+- Customer -> https://www.consumerbarometer.com/en/
+- Market - https://marketfinder.thinkwithgoogle.com/intl/en_us/markets/
+
+
+
+### News
+- https://newsinitiative.withgoogle.com/training/datatools
+
+### ReadMe
+- https://dillinger.io/
