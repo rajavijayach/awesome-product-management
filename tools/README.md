@@ -30,7 +30,7 @@
 - https://compressimage.toolur.com
 - https://resizeimage.net
 - https://www.remove.bg
-- thumborize.me
+- http://thumborize.me/
 - https://tinypng.com
 
 ### Keyword Planner
