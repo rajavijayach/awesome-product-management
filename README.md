@@ -85,10 +85,6 @@
 *  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world
 
 
-## Product
-* https://firstround.com/review/product/
-
-
 ## Newsletter
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
