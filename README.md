@@ -41,6 +41,12 @@
     * [Rich Text](/tools/#richtext)
 * [Twitter Threads](/threads)
     * [Product Design](/threads/#product-design)
+    * [Product Management](/threads/#product-management)
+    * [Growth](/threads/#growth)
+    * [Mental Models](/threads/#mental-models)
+    * [Interviews](/threads/#interviews)
+    * [Marketing](/threads/#marketing)
+    * [Business](/threads/#business)
 
 
 ## Learnings
