@@ -79,14 +79,6 @@
 > **Useful Books for PMs**
 * [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
-
-* https://www.goodreads.com/book/show/38563044-solving-product-design-exercises
-* https://www.goodreads.com/book/show/43205214-ship-it
-* https://www.goodreads.com/book/show/45143467-product-mindset
-* https://www.goodreads.com/book/show/35274263-the-product-book
-* https://www.productanalyticsplaybook.com
-
-
 # Design
 * https://journey.uxdesign.cc
 * https://growth.design
