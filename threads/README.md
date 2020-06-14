@@ -1,4 +1,4 @@
-# Twitter Threads <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-87-432551.png" width="48">
+# Twitter Threads <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-87-432551.png" height="36">
 
 ## Contents 
 * [Product Design](#product-design)
