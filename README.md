@@ -27,6 +27,7 @@
 * [Communities](#communities)
 * [Product Managers](#product-managers)
 * [Jobs](#jobs)
+* [Tools](/tools)
 * [Twitter Threads](/threads)
     * [Product Design](/threads/#product-design)
 
@@ -80,10 +81,5 @@
 ## Newsletter
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
-
-
-## Tech
-* http://softwareproductmanagement.co/
-
 
 
