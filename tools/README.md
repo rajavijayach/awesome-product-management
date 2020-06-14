@@ -1,4 +1,4 @@
-# Tools
+# Handy Tools ⚙️
 
 ## Contents
 * [Chrome User Experience](#chrome-user-experience)
