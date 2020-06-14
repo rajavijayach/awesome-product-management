@@ -2,6 +2,12 @@
 
 ## Contents 
 * [Product Design](#product-design)
+* [Product Management](##product-management)
+* [Growth](#growth)
+* [Mental Models](#mental-models)
+* [Interviews](#interviews)
+* [Marketing](#marketing)
+* [Business](#business)
 
 
 ### Product Design
