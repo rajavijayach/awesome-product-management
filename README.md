@@ -7,7 +7,7 @@
 * [Online Schools](##online-schools)
 * [Metrics](#metrics)
 * [Blogs](#blogs)
-* [Substack](#substack)
+* [Newsletter](#newsletter)
 * [Growth](#growth)
 * [Communities](#communities)
 * [Product Managers](#product-managers)
@@ -111,14 +111,16 @@
 * https://firstround.com/review/product/
 
 
-# Substack
-* https://turnaround.substack.com/p/product-management-
+# Newsletter
+* [Product Management ++](https://turnaround.substack.com/p/product-management-)
+* [The Oberver Effect](https://www.theobservereffect.org/)
 
 
 # Comepetitors 
 * https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
 
 # Marketing
+
 * https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
 
 # Tech
