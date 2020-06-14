@@ -13,15 +13,29 @@
 * [Useful Books for PMs](#product-managers)
 
 
+### Product Management
+* https://medium.com/@noah_weiss/10-traits-of-great-pms-a7776cd3d9cd
+
+
 ### Building Products
 * https://firstround.com/review/how-to-shape-remarkable-products-in-the-messy-middle-of-building-startups/
+* https://adamnash.blog/2009/07/22/guide-to-product-planning-three-feature-buckets/
+* [Rules of Flow for Product Management: an AirBnB Case Study](https://medium.com/swlh/rules-of-flow-for-product-management-airbnb-case-study-61ec04342b0d)
 
 ### Design
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
 
 
+### Communication
+* https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager
+
+
 ### AB Testing
-* https://hackernoon.com/cracking-a-b-testing-in-your-product-e63b5897d359
+* https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/
+* https://vwo.com/blog/how-to-calculate-ab-test-sample-size/
+* https://www.optimizely.com/sample-size-calculator/
+* https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size
+
 
 ### Metrics
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals
@@ -58,6 +72,16 @@
 
 ### Marketing
 * https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
+
+
+### First Principles 
+* https://fs.blog/2018/04/first-principles/
+
+
+### Interviews
+* https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size
+
+
 
 ### Additional Reading
 * https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers
