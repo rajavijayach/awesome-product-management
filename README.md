@@ -27,7 +27,9 @@
 * [Communities](#communities)
 * [Product Managers](#product-managers)
 * [Jobs](#jobs)
-* [Twitter Threads](#twitter-threads)
+* [Twitter Threads](/threads)
+    * [Product Design](/threads/#product-design)
+
 
 ## Learnings
 * Silicon Valley Product Group https://svpg.com/
@@ -117,9 +119,6 @@
 * http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
 
 
-## Twitter Threads
-> **Product Design**
-* [How to design a product that can grow itself 10x in year](https://twitter.com/mikaelcho/status/1270743622619717632)
 
 
 
