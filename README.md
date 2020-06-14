@@ -1,5 +1,6 @@
 # Welcome to Awesome Product Management
 
+
 ## Contents 
 * [Learnings](#learnings)
 * [Podcasts](#podcasts)
@@ -60,13 +61,16 @@
 * https://learnui.design/blog/
 * https://principles.adactio.com/
 
+
 ## Online Schools 
 * https://www.productschool.com/
 * https://pmschool.io/
 
+
 ## Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
 * ProductSchool ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
+
 
 ## Product Managers 
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
@@ -77,9 +81,6 @@
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 
-## Marketing
-
-* https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
 
 ## Tech
 * http://softwareproductmanagement.co/

@@ -51,6 +51,8 @@
 
 
 
+## Marketing
+* https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
 
 https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers/?fbclid=IwAR39z6U441Zf_fpwBH6WOZ3gx80lL1oyDcGWWMhPhzbuGL6ybyvHT79GmG0
 
