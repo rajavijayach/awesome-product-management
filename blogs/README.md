@@ -20,6 +20,36 @@
 * https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
 
+* Aha! Blog http://blog.aha.io/
+
+## Metrics
+* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals##
+
+
+## Insights 
+*  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world
+
+
+
+## Comepetitors 
+* https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
+
+
+## NPS
+* https://www.surveymonkey.com/r/CustObsessArticle
+
+## Growth
+* https://www.growthengblog.com/
+
+## Engagement
+* https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/##close
+* https://clevertap.com/blog/cohort-analysis/
+
+
+## Opportunity
+* http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
+
+
 
 
 https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers/?fbclid=IwAR39z6U441Zf_fpwBH6WOZ3gx80lL1oyDcGWWMhPhzbuGL6ybyvHT79GmG0

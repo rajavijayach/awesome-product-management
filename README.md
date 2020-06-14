@@ -20,8 +20,7 @@
     * [Books](/interviews#books)
     * [Articles](/interviews#articles)
 * [Online Schools](#online-schools)
-* [Metrics](#metrics)
-* [Blogs](#blogs)
+* [Blogs](/blogs)
 * [Newsletter](#newsletter)
 * [Growth](#growth)
 * [Communities](#communities)
@@ -47,8 +46,7 @@
 * Blog of Cindy Alvarez https://www.cindyalvarez.com/
 * The art of product management https://pmblog.quora.com
 * How to be a good product manager https://www.goodproductmanager.com/
-* Aha! Blog http://blog.aha.io/
-* epartment of product https://www.departmentofproduct.com/
+* Department of product https://www.departmentofproduct.com/
 * Product Focus https://www.productfocus.com/blog/
 * Learn PM with me https://www.learnpmwith.me
 * The Black Box of PM https://blackboxofpm.com/
@@ -75,23 +73,9 @@
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 
-
-## Metrics 
-* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals##
-
-
-
-## Insights 
-*  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world
-
-
 ## Newsletter
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
-
-
-## Comepetitors 
-* https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
 
 ## Marketing
 
@@ -99,22 +83,6 @@
 
 ## Tech
 * http://softwareproductmanagement.co/
-
-## NPS
-* https://www.surveymonkey.com/r/CustObsessArticle
-
-## Growth
-* https://www.growthengblog.com/
-
-## Engagement
-* https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/##close
-* https://clevertap.com/blog/cohort-analysis/
-
-
-## Opportunity
-* http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/
-
-
 
 
 
