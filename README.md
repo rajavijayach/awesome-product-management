@@ -59,19 +59,6 @@
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
 
-# Interview Preparation 
-
-> **Courses**
-* https://www.tryexponent.com/pm
-
-> **Books**
-* https://www.goodreads.com/book/show/36412681-amazon-product-manager-interview
-* https://www.goodreads.com/book/show/32984007-amazon-product-manager-interview
-* https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
-
-> **Articles**
-* https://productmanagerhq.com/product-manager-interview-pre-interview-research/
-
 
 # Metrics 
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals#
