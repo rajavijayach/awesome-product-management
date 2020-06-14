@@ -23,7 +23,9 @@
 * Aha! Blog http://blog.aha.io/
 
 ## Metrics
-* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals##
+* https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals
+* https://www.sachinrekhi.com/a-leaders-guide-to-metrics-reviews
+* https://medium.com/@pratikpoddar/you-are-reading-retention-wrong-eb8f07018e87
 
 
 ## Insights 
