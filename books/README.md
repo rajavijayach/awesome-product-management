@@ -5,12 +5,12 @@
 * [Startups](#startups)
 * [Product Management](#product-management)
 * [Customer Interviews](#customer-interviews)
-* [Decision Making](#metrics)
-* [Strategies](#blogs)
-* [Technology](#newsletter)
-* [Metrics](#growth)
-* [Design](#communities)
-* [Useful Books for PMs](#product-managers)
+* [Decision Making](#decision-making)
+* [Strategies](#strategies)
+* [Technology](#technology)
+* [Metrics](#metrics)
+* [Design](#design)
+* [Useful Books for PMs](#useful-books-for-pms)
 
 
 ## Building Products
