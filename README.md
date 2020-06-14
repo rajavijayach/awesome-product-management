@@ -81,13 +81,13 @@
 
 
 ## Online Schools 
-* https://www.productschool.com/
-* https://pmschool.io/
+* [Product School](https://www.productschool.com)
+* [PM School](https://pmschool.io)
 
 
 ## Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
-* ProductSchool ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
+* [ProductSchool](https://www.productschool.com/) ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
 
 ## Product Managers 
