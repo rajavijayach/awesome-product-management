@@ -16,7 +16,6 @@
 * [Opportunity](#opportunity)
 * [Marketing](#marketing)
 * [First Principles](#first-principles)
-* [Interviews](#interviews)
 * [Additional Reading](#additional-reading)
 
 
@@ -36,6 +35,7 @@
 
 ### Communication
 * https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager
+* https://www.invisionapp.com/inside-design/product-management-communication/
 
 
 ### AB Testing
@@ -89,13 +89,7 @@
 * https://fs.blog/2018/04/first-principles/
 
 
-### Interviews
-* https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size
-
-
-
 ### Additional Reading
 * https://www.productschool.com/blog/product-management-2/7-powerful-ted-talks-product-managers
-* https://paper.dropbox.com/doc/Product-Management-Resources-wd3lmwnVXal3Z8JrM25pr
 * https://amplitude.com/blog/search?term=Product
 * Aha! Blog http://blog.aha.io/

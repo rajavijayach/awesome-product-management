@@ -3,6 +3,7 @@
 
 ### Contents 
 * [Learnings](#learnings)
+* [Templates](#templates)
 * [Design](#design)
 * [Books](#books)
 * [Interviews](#interviews)
@@ -41,6 +42,9 @@
 * Everything PM http://everything.pm/
 * Principles of Product Management https://www.principles.pm/
 
+### Templates 
+* https://usefyi.com/templates/product-management-templates/
+* https://www.atlassian.com/software/confluence/templates/categories/product-management
 
 ### Design
 * https://journey.uxdesign.cc
@@ -89,7 +93,6 @@
 * [Product to Product](https://roadmunk.com/product-to-product-podcast)
 
 ### [Tools](/tools)
-* [Chrome User Experience](/tools/#chrome-user-experience)
 * [AB Testing](/tools/#ab-testing)
 * [Search](/tools/#search)
 * [Images Compression / Manipulation ](/tools/#images)
@@ -98,8 +101,12 @@
 * [Website Speed Test](/tools/#website-speed-test)
 * [Responsive Testing](/tools/#responsive-testing)
 * [URL Generator](/tools/#url-generator)
-* [Wireframing ](/tools/#wireframing)
-* [Rich Text](/tools/#richtext)
+* [Wireframing / Prototypes ](/tools/#wireframing)
+* [Rich Text](/tools/#rich-text)
+* [URL Debugger](/tools/#url-debugger)
+* [Research](/tools/#research)
+* [ReadMe](/tools/#readme)
+* [Others](/tools/#others)
 
 ### [Blogs / Articles ](/blogs)
 * [Product Management](/blogs/#product-management)
