@@ -95,6 +95,7 @@
 ## Newsletters
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
+* [Stratechery](https://stratechery.com/)
 
 ## Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )

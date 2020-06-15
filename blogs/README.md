@@ -41,6 +41,7 @@
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals
 * https://www.sachinrekhi.com/a-leaders-guide-to-metrics-reviews
 * https://medium.com/@pratikpoddar/you-are-reading-retention-wrong-eb8f07018e87
+* https://www.techinasia.com/the-importance-of-key-metrics-in-building-an-enduring-business
 
 ### Fremeworks
 * https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
