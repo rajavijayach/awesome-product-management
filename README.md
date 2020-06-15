@@ -1,7 +1,7 @@
 # Welcome to Awesome Product Management
 
 
-## Contents 
+### Contents 
 * [Learnings](#learnings)
 * [Design](#design)
 * [Books](#books)
@@ -18,7 +18,7 @@
 
 
 
-## Learnings
+### Learnings
 * Silicon Valley Product Group https://svpg.com/
 * Mind the Product https://www.mindtheproduct.com/
 * 280 Group https://280group.com/
@@ -42,13 +42,13 @@
 * Principles of Product Management https://www.principles.pm/
 
 
-## Design
+### Design
 * https://journey.uxdesign.cc
 * https://growth.design
 * https://learnui.design/blog/
 * https://principles.adactio.com/
 
-## [Books](/books)
+### [Books](/books)
 - [Building Products](/books/#building-products)
 - [Startups](/books/#startups)
 - [Product Management](/books/#product-management)
@@ -60,12 +60,12 @@
 - [Design](/books/#communities)
 - [Useful Books for PMs](/books/#product-managers)
 
-## [Interviews](/interviews)
+### [Interviews](/interviews)
 * [Courses](/interviews#courses)
 * [Books](/interviews#books)
 * [Articles](/interviews#articles)
 
-## [Twitter Threads](/threads)
+### [Twitter Threads](/threads)
 * [Product Design](/threads/#product-design)
 * [Product Management](/threads/#product-management)
 * [Growth](/threads/#growth)
@@ -74,13 +74,13 @@
 * [Marketing](/threads/#marketing)
 * [Business](/threads/#business)
 
-## Online Schools 
+### Online Schools 
 * [Product School](https://www.productschool.com)
 * [PM School](https://pmschool.io)
 
-## Podcasts
+### Podcasts
 
-## [Tools](/tools)
+### [Tools](/tools)
 * [Chrome User Experience](/tools/#chrome-user-experience)
 * [AB Testing](/tools/#ab-testing)
 * [Search](/tools/#search)
@@ -93,7 +93,7 @@
 * [Wireframing ](/tools/#wireframing)
 * [Rich Text](/tools/#richtext)
 
-## [Blogs / Articles ](/blogs)
+### [Blogs / Articles ](/blogs)
 * [Product Management](/blogs/#product-management)
 * [Building Products](/blogs/#building-products)
 * [Design](/blogs/#design)
@@ -112,21 +112,21 @@
 * [Interviews](/blogs/#interviews)
 * [Additional Reading](/blogs/#additional-reading)
 
-## Newsletters
+### Newsletters
 * [Product Management ++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 * [Stratechery](https://stratechery.com/)
 
-## Communities 
+### Communities 
 * Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
 * [ProductSchool](https://www.productschool.com/) ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
 
-## Product Managers 
+### Product Managers 
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
 
-## Jobs
+### Jobs
 Coming Soon
 
 
