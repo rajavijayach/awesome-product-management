@@ -43,7 +43,7 @@
 * https://medium.com/@pratikpoddar/you-are-reading-retention-wrong-eb8f07018e87
 * https://www.techinasia.com/the-importance-of-key-metrics-in-building-an-enduring-business
 
-### Fremeworks
+### Frameworks
 * https://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 
 
@@ -52,7 +52,7 @@
 * https://blog.innertrends.com
 
 
-### Comepetitors 
+### Competitors 
 * https://gopractice.io/blog/how-to-estimate-the-revenue-downloads-and-audience-of-a-competitors-app/
 
 
