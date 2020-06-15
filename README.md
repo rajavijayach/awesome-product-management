@@ -45,6 +45,8 @@
 ### Templates 
 * https://usefyi.com/templates/product-management-templates/
 * https://www.atlassian.com/software/confluence/templates/categories/product-management
+* https://www.romanpichler.com/tools/
+
 
 ### Design
 * https://journey.uxdesign.cc
