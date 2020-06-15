@@ -79,6 +79,14 @@
 * [PM School](https://pmschool.io)
 
 ### Podcasts
+* [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)
+* [The Product Podcast](https://www.productschool.com/product-podcast/)
+* [This Is Product Management](https://www.thisisproductmanagement.com/)
+* [The Knowledge Project Podcast](https://fs.blog/knowledge-project/)
+* [The Product Breakfast Club Podcast](https://www.productbreakfastclub.com/)
+* [UI Breakfast Podcast](https://uibreakfast.com/category/podcast/)
+* [Rocketship.fm](https://rocketship.fm/)
+* [Product to Product](https://roadmunk.com/product-to-product-podcast)
 
 ### [Tools](/tools)
 * [Chrome User Experience](/tools/#chrome-user-experience)
