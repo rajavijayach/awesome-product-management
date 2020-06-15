@@ -51,3 +51,4 @@
 
 ### Business
 * [Business Model Breakdowns](https://twitter.com/investing_city/status/1181438271374577664)
+* [20 powerful competitive advantages ](https://twitter.com/aaronbush100/status/1271822557981925378)

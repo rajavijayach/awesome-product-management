@@ -1,16 +1,23 @@
 # Blog posts 📑
 
 ## Contents 
-* [Building Products](#building-products)
-* [Startups](#startups)
 * [Product Management](#product-management)
-* [Customer Interviews](#customer-interviews)
-* [Decision Making](#metrics)
-* [Strategies](#blogs)
-* [Technology](#newsletter)
-* [Metrics](#growth)
-* [Design](#communities)
-* [Useful Books for PMs](#product-managers)
+* [Building Products](#building-products)
+* [Design](#design)
+* [Communication](#communication)
+* [AB Testing](#ab-testing)
+* [Metrics](#metrics)
+* [Frameworks](#frameworks)
+* [Insights](#insights)
+* [Competitors](#competitors)
+* [NPS](#nps)
+* [Growth](#growth)
+* [Engagement](#engagement)
+* [Opportunity](#opportunity)
+* [Marketing](#marketing)
+* [First Principles](#first-principles)
+* [Interviews](#interviews)
+* [Additional Reading](#additional-reading)
 
 
 ### Product Management
@@ -24,6 +31,7 @@
 
 ### Design
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
+* https://uxdesign.cc/the-practicality-of-neilsons-10-91cd4a6fb61c
 
 
 ### Communication
@@ -61,6 +69,8 @@
 
 ### Growth
 * https://www.growthengblog.com/
+* https://marker.medium.com/the-untold-history-of-facebooks-most-controversial-growth-tool-2ea3bfeaaa66
+
 
 ### Engagement
 * https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/###close
