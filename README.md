@@ -60,7 +60,7 @@
 - [Design](/books/#communities)
 - [Useful Books for PMs](/books/#product-managers)
 
-## Interviews
+## [Interviews](/interviews)
 * [Courses](/interviews#courses)
 * [Books](/interviews#books)
 * [Articles](/interviews#articles)
@@ -93,7 +93,7 @@
 * [Wireframing ](/tools/#wireframing)
 * [Rich Text](/tools/#richtext)
 
-## [Blogs](/blogs)
+## [Blogs / Articles ](/blogs)
 * [Product Management](/blogs/#product-management)
 * [Building Products](/blogs/#building-products)
 * [Design](/blogs/#design)

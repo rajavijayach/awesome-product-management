@@ -1,4 +1,4 @@
-# Blog posts 📑
+# Blogs / Articles  📑
 
 ## Contents 
 * [Product Management](#product-management)
