@@ -93,6 +93,7 @@
 * [UI Breakfast Podcast](https://uibreakfast.com/category/podcast/)
 * [Rocketship.fm](https://rocketship.fm/)
 * [Product to Product](https://roadmunk.com/product-to-product-podcast)
+* [Better Product Podcast](https://betterproduct.community/podcasts/)
 
 ### [Tools](/tools)
 * [AB Testing](/tools/#ab-testing)
