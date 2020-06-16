@@ -57,6 +57,7 @@
 - Campaign URL Builder - https://ga-dev-tools.appspot.com/campaign-url-builder/
 
 ### Wireframing / Prototyping
+- [UI Components Naming](https://www.uiguideline.com/)
 - Wireframing : https://excalidraw.com
 - Figma
 - Sketch
