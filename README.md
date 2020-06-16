@@ -7,7 +7,7 @@
 * [Design](#design)
 * [Books](#books)
 * [Interviews](#interviews)
-* [Twitter Threads](#twitter_threads)
+* [Twitter Threads](#twitter-threads)
 * [Online Schools](#online-schools)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
