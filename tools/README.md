@@ -9,7 +9,7 @@
 * [Website Speed Test](#website-speed-test)
 * [Responsive Testing](#responsive-testing)
 * [URL Generator](#url-generator)
-* [Wireframing / Prototypes ](#wireframing)
+* [Design / Wireframing / Prototypes ](#design)
 * [Rich Text](#rich-text)
 * [URL Debugger](#url-debugger)
 * [Research](#research)
@@ -56,8 +56,9 @@
 - WhatsApp URL Generator - https://postcron.com/en/blog/landings/whatsapp-link-generator/
 - Campaign URL Builder - https://ga-dev-tools.appspot.com/campaign-url-builder/
 
-### Wireframing / Prototyping
-- [UI Components Naming](https://www.uiguideline.com/)
+### Design
+- UI Components Naming : https://www.uiguideline.com/
+- Design Systems and UI Frameworks : https://www.uiguideline.com/reference-systems
 - Wireframing : https://excalidraw.com
 - Figma
 - Sketch
