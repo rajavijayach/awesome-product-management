@@ -83,6 +83,9 @@
 ### Online Schools 
 * [Product School](https://www.productschool.com)
 * [PM School](https://pmschool.io)
+* [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+    * [Product Design](https://www.udacity.com/course/product-design--ud509)
+* [Reforge](https://www.reforge.com/)
 
 ### Podcasts
 * [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)

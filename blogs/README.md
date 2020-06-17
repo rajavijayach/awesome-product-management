@@ -27,6 +27,7 @@
 * https://firstround.com/review/how-to-shape-remarkable-products-in-the-messy-middle-of-building-startups/
 * https://adamnash.blog/2009/07/22/guide-to-product-planning-three-feature-buckets/
 * [Rules of Flow for Product Management: an AirBnB Case Study](https://medium.com/swlh/rules-of-flow-for-product-management-airbnb-case-study-61ec04342b0d)
+* https://www.intercom.com/blog/product-judgment/
 
 ### Design
 * https://firstround.com/review/our-6-must-reads-for-building-and-leading-a-product-design-team/
