@@ -15,6 +15,7 @@
 * [Newsletters](#newsletters)
 * [Communities](#communities)
 * [Product Managers](#product-managers)
+* [Videos](#videos)
 * [Jobs](#jobs)
 
 
@@ -146,6 +147,10 @@
 ### Product Managers 
 * Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
  ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
+
+
+### Videos
+* [Product Management Playlist on Youtube](https://www.youtube.com/playlist?list=PLfdoT0RTNuSJfYfRAyweKSaAKgUVUS_0t)
 
 ### Jobs
 Coming Soon
