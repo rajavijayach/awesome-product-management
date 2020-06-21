@@ -59,6 +59,7 @@
 ### Design
 - UI Components Naming : https://www.uiguideline.com/
 - Design Systems and UI Frameworks : https://www.uiguideline.com/reference-systems
+- 1000+ open-source UI designs: https://uidesigndaily.com/
 - Wireframing : https://excalidraw.com
 - Figma
 - Sketch
