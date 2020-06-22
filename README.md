@@ -87,6 +87,7 @@
 * [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036)
     * [Product Design](https://www.udacity.com/course/product-design--ud509)
 * [Reforge](https://www.reforge.com/)
+* [Upraised](https://www.upraised.co/)
 
 ### Podcasts
 * [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)
