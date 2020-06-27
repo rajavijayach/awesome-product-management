@@ -45,6 +45,8 @@
 - https://smallseotools.com
 - https://technicalseo.com/tools/
 - https://search.google.com/structured-data/testing-tool/
+- https://search.google.com/test/rich-results
+- https://www.google.com/webmasters/tools/data-highlighter
 
 ### Website Speed Test
 - https://tools.pingdom.com/
