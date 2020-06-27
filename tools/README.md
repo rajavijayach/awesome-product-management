@@ -43,6 +43,7 @@
 - https://ogp.me
 - Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/u/0/
 - https://smallseotools.com
+- https://technicalseo.com/tools/
 
 ### Website Speed Test
 - https://tools.pingdom.com/
