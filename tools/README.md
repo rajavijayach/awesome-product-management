@@ -1,4 +1,4 @@
-# Handy Tools ⚙️
+# Handy Resources ⚙️
 
 ## Contents
 * [AB Testing](#ab-testing)
@@ -16,6 +16,9 @@
 * [ReadMe](#readme)
 * [Others](#others)
 
+
+### Writing 
+- https://developers.google.com/tech-writing/overview
 
 ### AB Testing
 - https://optimize.google.com/optimize/home

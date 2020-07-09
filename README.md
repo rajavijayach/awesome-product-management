@@ -10,7 +10,7 @@
 * [Twitter Threads](#twitter-threads)
 * [Online Schools](#online-schools)
 * [Podcasts](#podcasts)
-* [Tools](#tools)
+* [Resources](#tools)
 * [Blogs](#blogs)
 * [Newsletters](#newsletters)
 * [Communities](#communities)
@@ -100,7 +100,8 @@
 * [Product to Product](https://roadmunk.com/product-to-product-podcast)
 * [Better Product Podcast](https://betterproduct.community/podcasts/)
 
-### [Tools](/tools)
+### [Resources](/tools)
+* [Writing](/tools/#writing)
 * [AB Testing](/tools/#ab-testing)
 * [Search](/tools/#search)
 * [Images Compression / Manipulation ](/tools/#images)
