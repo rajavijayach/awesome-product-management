@@ -42,6 +42,7 @@
 * The Black Box of PM https://blackboxofpm.com/
 * Everything PM http://everything.pm/
 * Principles of Product Management https://www.principles.pm/
+* ProductVitamins https://productvitamins.io/
 
 ### Templates 
 * https://usefyi.com/templates/product-management-templates/
