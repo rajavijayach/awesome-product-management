@@ -5,6 +5,7 @@
 * [Building Products](#building-products)
 * [Design](#design)
 * [Communication](#communication)
+* [Customer Interviews](#customer-interviews)
 * [AB Testing](#ab-testing)
 * [Metrics](#metrics)
 * [Frameworks](#frameworks)
@@ -38,6 +39,8 @@
 * https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager
 * https://www.invisionapp.com/inside-design/product-management-communication/
 
+### Customer Interviews
+* https://www.producttalk.org/2016/03/customer-interview-questions/
 
 ### AB Testing
 * https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/
