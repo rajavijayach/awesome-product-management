@@ -21,3 +21,4 @@
 * https://www.productmanagementexercises.com/how-to-prepare-for-product-manager-job-interviews
 * https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606
 * Google : https://igotanoffer.com/blogs/product-manager/google-product-manager-interview
+* https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/
