@@ -103,6 +103,7 @@
 * https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606
 * Google : https://igotanoffer.com/blogs/product-manager/google-product-manager-interview
 * https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/
+* CIRCLES Method™ Product Design Framework : https://www.impactinterview.com/2016/06/circles-method-product-design-framework/
 
 
 
