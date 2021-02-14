@@ -71,7 +71,7 @@
 ### [Interviews](/interviews)
 * [Courses](/interviews#courses)
 * [Books](/interviews#books)
-* [Articles](/interviews#articles)
+* [Mock Interviews](/interviews#mock-interviews)
 
 ### [Twitter Threads](/threads)
 * [Product Design](/threads/#product-design)
