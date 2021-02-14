@@ -30,6 +30,7 @@
 
 ### Growth
 * [Continuous growth as the biggest lever of making a dent in the universe](https://twitter.com/rachit_21/status/1268512620224458752)
+* [Acquiring first customers](https://twitter.com/Julian/status/1360715837594828802)
 
 
 ### Mental Models 
