@@ -16,7 +16,7 @@
 * [Engagement](#engagement)
 * [Opportunity](#opportunity)
 * [Marketing](#marketing)
-* [First Principles](#first-principles)
+* [Thinking](#thinking)
 * [Interviews](#interviews)
 * [Additional Reading](#additional-reading)
 
@@ -90,8 +90,9 @@
 * https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/
 
 
-### First Principles 
+### Thinking 
 * https://fs.blog/2018/04/first-principles/
+* https://fs.blog/mental-models/
 
 
 ### Interviews
