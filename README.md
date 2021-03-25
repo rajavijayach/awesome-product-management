@@ -5,7 +5,7 @@
 * [Learnings](#learnings)
 * [Templates](#templates)
 * [Design](#design)
-* [Books](#books)
+* [Blogs](#blogs)
 * [Interviews](#interviews)
 * [Twitter Threads](#twitter-threads)
 * [Online Schools](#online-schools)
@@ -118,7 +118,7 @@
 * [ReadMe](/resources/#readme)
 * [Others](/resources/#others)
 
-### [Blogs / Articles ](/blogs)
+### [Blogs](/blogs)
 * [Product Management](/blogs/#product-management)
 * [Building Products](/blogs/#building-products)
 * [Design](/blogs/#design)
