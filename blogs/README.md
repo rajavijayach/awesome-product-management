@@ -18,6 +18,7 @@
 * [Marketing](#marketing)
 * [Thinking](#thinking)
 * [Interviews](#interviews)
+* [Role and Responsibility](#role)
 * [Additional Reading](#additional-reading)
 
 
@@ -106,6 +107,8 @@
 * https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/
 * CIRCLES Method™ Product Design Framework : https://www.impactinterview.com/2016/06/circles-method-product-design-framework/
 
+### Role 
+* https://a16z.com/2012/06/15/good-product-managerbad-product-manager/
 
 
 ### Additional Reading
