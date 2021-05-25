@@ -24,7 +24,7 @@
 
 ### Product Management
 * https://medium.com/@noah_weiss/10-traits-of-great-pms-a7776cd3d9cd
-* https://mypminterview.substack.com/p/frameworks-list-for-structured-product?fbclid=IwAR3MKBbCKQZmCvMTtRNRv6_UsPVR5qcAu7ZEsbd3UlXPiLRqhKDu9DhgxP8
+* https://mypminterview.substack.com/p/frameworks-list-for-structured-product
 
 
 ### Building Products
