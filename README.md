@@ -68,10 +68,10 @@
 - [Design](/books/#communities)
 - [Useful Books for PMs](/books/#product-managers)
 
-### [Interviews](/interviews)
-* [Courses](/interviews#courses)
-* [Books](/interviews#books)
-* [Mock Interviews](/interviews#mock-interviews)
+### [Interviews](./interviews)
+* [Courses](./interviews#courses)
+* [Books](./interviews#books)
+* [Mock Interviews](./interviews#mock-interviews)
 
 ### [Twitter Threads](/threads)
 * [Product Design](/threads/#product-design)
