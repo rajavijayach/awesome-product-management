@@ -20,6 +20,7 @@
 * [Interviews](#interviews)
 * [Role and Responsibility](#role)
 * [Additional Reading](#additional-reading)
+* [Hiring](#hiring)
 
 
 ### Product Management Skills
@@ -110,6 +111,10 @@
 
 ### Role 
 * https://a16z.com/2012/06/15/good-product-managerbad-product-manager/
+
+
+### Hiring / Team Building / Interviews
+* [Team Hiring](https://alexw.substack.com/p/hire)
 
 
 ### Additional Reading
