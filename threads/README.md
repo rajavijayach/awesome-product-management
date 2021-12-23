@@ -29,6 +29,9 @@
 * [A wine-fueled airport rant about product management](https://twitter.com/lissijean/status/1129537047105032194)
 * [Consumer product management is hard ](https://twitter.com/shreyas/status/1271240038399918080)
 * [B2B Product Management story](https://twitter.com/shreyas/status/1263890579701657601)
+* [Decision Making](https://twitter.com/george__mack/status/1350513143387189248)
+* [Managing Remote Teams](https://twitter.com/Jobvo/status/1375085060425138179)
+* [Prioritisation](https://twitter.com/will_lawrenceTO/status/1375098899074007048)
 
 ### Growth
 * [Continuous growth as the biggest lever of making a dent in the universe](https://twitter.com/rachit_21/status/1268512620224458752)
