@@ -1,7 +1,7 @@
 # Blogs / Articles  📑
 
 ## Contents 
-* [Product Management](#product-management)
+* [Product Management Skills](#product-management-skills)
 * [Building Products](#building-products)
 * [Design](#design)
 * [Communication](#communication)
@@ -22,7 +22,7 @@
 * [Additional Reading](#additional-reading)
 
 
-### Product Management
+### Product Management Skills
 * https://medium.com/@noah_weiss/10-traits-of-great-pms-a7776cd3d9cd
 * https://mypminterview.substack.com/p/frameworks-list-for-structured-product
 
