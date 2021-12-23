@@ -1,4 +1,4 @@
-# Blogs / Articles  📑
+# Articles  📑
 
 ## Contents 
 * [Product Management Skills](#product-management-skills)
