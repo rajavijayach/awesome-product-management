@@ -1,5 +1,7 @@
 # Welcome to Awesome Product Management
 
+Curated by Raja Vijaya Saradhi ([Twitter](https://twitter.com/rajavijayach))
+
 
 ### Contents 
 * [Learnings](#learnings)
@@ -16,7 +18,7 @@
 * [Communities](#communities)
 * [Product Managers](#product-managers)
 * [Videos](#videos)
-* [Jobs](#jobs)
+
 
 
 
@@ -51,10 +53,10 @@
 
 
 ### Design
-* https://journey.uxdesign.cc
-* https://growth.design
-* https://learnui.design/blog/
-* https://principles.adactio.com/
+* [UX Design](https://journey.uxdesign.cc)
+* [Growth Design](https://growth.design)
+* [Learn UI Design Blog](https://learnui.design/blog/)
+* [Adactio Principles](https://principles.adactio.com/)
 
 ### [Books](/books)
 - [Building Products](/books/#building-products)
@@ -154,9 +156,6 @@
 
 ### Videos
 * [Product Management Playlist on Youtube](https://www.youtube.com/playlist?list=PLfdoT0RTNuSJfYfRAyweKSaAKgUVUS_0t)
-
-### Jobs
-Coming Soon
 
 
 
