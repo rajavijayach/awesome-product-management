@@ -1,5 +1,7 @@
 # Welcome to Awesome Product Management
 
+A collection of awesome things regarding Product Management
+
 Curated by Raja Vijaya Saradhi ([Twitter](https://twitter.com/rajavijayach))
 
 
