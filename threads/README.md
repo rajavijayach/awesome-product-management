@@ -16,6 +16,8 @@
 
 
 ### Product Management 
+* [Product Planning](https://twitter.com/clairevo/status/1421521357179801608)
+* [Habits of effective Product Managers](https://twitter.com/lennysan/status/1389611792741986305)
 * [The difference between a good product manager and a great product manager](https://twitter.com/shreyas/status/1249039638829793280)
 * [The power of product positioning](https://twitter.com/aprildunford/status/1128352777367953409)
 * [Why timeline roadmaps suck (and what to do instead)](https://twitter.com/simplybastow/status/1168531672335343616)
@@ -47,9 +49,12 @@
 
 ### Marketing 
 * [How to write a landing page title](https://twitter.com/GoodMarketingHQ/status/1215637286823526401)
-* [Marketing Lessons](https://twitter.com/KyleTibbitts/status/1211005178985373696)
+* [Marketing Lessons - Kyle Tibbitts](https://twitter.com/KyleTibbitts/status/1211005178985373696)
+* [Marketing Lessons - Alex Garcia](https://twitter.com/alexgarcia_atx/status/1378899160993128448)
 
 
 ### Business
 * [Business Model Breakdowns](https://twitter.com/investing_city/status/1181438271374577664)
 * [20 powerful competitive advantages ](https://twitter.com/aaronbush100/status/1271822557981925378)
+* [Business Writing from Amazon](https://twitter.com/IT_Kabootar/status/1411756398417891333)
+* [Jeff Bezos on Strategy & Leadership](https://twitter.com/businessbarista/status/1405963596828491779)
