@@ -10,7 +10,7 @@
 * [Technology](#technology)
 * [Metrics](#metrics)
 * [Design](#design)
-* [Useful Books for PMs](#useful-books-for-pms)
+* [Communication](#communication)
 
 
 ## Building Products
@@ -49,5 +49,5 @@
 ## Design
 * [Solving Product Design Exercises: Questions & Answers](https://www.goodreads.com/book/show/38563044-solving-product-design-exercises)
 
-## Useful Books for PMs
+## Communication
 * [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
