@@ -93,6 +93,12 @@
 ### ReadMe
 - https://dillinger.io/
 
+### Analytics 
+- https://umami.is/
+
+### Snippets 
+- https://chalk.ist/
+
 
 ### Others
 - https://newsinitiative.withgoogle.com/training/datatools
