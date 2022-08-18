@@ -21,6 +21,7 @@
 
 ## Startups
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 
 ## Product Management
 * [Intercom on Product Management](https://www.goodreads.com/book/show/24999344-intercom-on-product-management)
