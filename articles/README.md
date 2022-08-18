@@ -19,8 +19,9 @@
 * [Thinking](#thinking)
 * [Interviews](#interviews)
 * [Role and Responsibility](#role)
-* [Additional Reading](#additional-reading)
 * [Hiring](#hiring)
+* [Additional Reading](#additional-reading)
+
 
 
 ### Product Management Skills
@@ -42,6 +43,7 @@
 ### Communication
 * https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager
 * https://www.invisionapp.com/inside-design/product-management-communication/
+* Facebook CTO on communication: https://boz.com/articles/communication-is-the-job 
 
 ### Customer Interviews
 * https://www.producttalk.org/2016/03/customer-interview-questions/
@@ -113,7 +115,7 @@
 * https://a16z.com/2012/06/15/good-product-managerbad-product-manager/
 
 
-### Hiring / Team Building / Interviews
+### Hiring 
 * [Team Hiring](https://alexw.substack.com/p/hire)
 
 
