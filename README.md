@@ -19,7 +19,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Resources](#resources)
 * [Articles](#articles)
 * [Newsletters](#newsletters)
-* [Communities](#communities)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
 
@@ -149,10 +148,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Product Management++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 * [Stratechery](https://stratechery.com/)
-
-### Communities 
-* Creators Of Products ( Join using [Slack](https://app.slack.com/client/T011LL6FGGG)  | [Twitter](https://twitter.com/CreatorsOfProd)  )
-* [ProductSchool](https://www.productschool.com/) ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
 
 ### Videos
