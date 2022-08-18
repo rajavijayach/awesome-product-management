@@ -20,8 +20,9 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Articles](#articles)
 * [Newsletters](#newsletters)
 * [Communities](#communities)
-* [Product Managers](#product-managers)
 * [Videos](#videos)
+* [Podcasts](#podcasts)
+
 
 
 
@@ -154,13 +155,11 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [ProductSchool](https://www.productschool.com/) ( Join using [Slack](https://www.productschool.com/slack-community/)  | [Twitter](https://twitter.com/productschool)  )
 
 
-### Product Managers 
-* Shreyas Doshi -  Early PM & first PM lead @stripe. Formerly a PM lead @twitter @google @yahoo
- ( [Twitter](https://twitter.com/shreyas) |  [LinkedIn](https://www.linkedin.com/in/shreyasdoshi/) )
-
-
 ### Videos
 * [Product Management Playlist on Youtube](https://www.youtube.com/playlist?list=PLfdoT0RTNuSJfYfRAyweKSaAKgUVUS_0t)
+
+### Podcasts
+* Spotify - [Product Management Podcast Playlist](https://open.spotify.com/playlist/2Th6yrQE0HG30Q9jxHhohq?si=50a0f262822d4ab0)
 
 
 
