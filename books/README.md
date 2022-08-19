@@ -49,6 +49,9 @@
 
 ## Design
 * [Solving Product Design Exercises: Questions & Answers](https://www.goodreads.com/book/show/38563044-solving-product-design-exercises)
+* [User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play](https://www.goodreads.com/en/book/show/41940285)
+* [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
+* [Lean UX: Applying Lean Principles to Improve User Experience](https://www.goodreads.com/book/show/13436116-lean-ux)
 
 ## Communication
 * [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
