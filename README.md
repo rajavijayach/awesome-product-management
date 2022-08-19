@@ -20,7 +20,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Articles](#articles)
 * [Newsletters](#newsletters)
 * [Videos](#videos)
-* [Podcasts](#podcasts)
 
 
 
@@ -98,6 +97,7 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Upraised](https://www.upraised.co/)
 
 ### Podcasts
+* Spotify - [Product Management Podcast Playlist](https://open.spotify.com/playlist/2Th6yrQE0HG30Q9jxHhohq?si=50a0f262822d4ab0)
 * [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)
 * [The Product Podcast](https://www.productschool.com/product-podcast/)
 * [This Is Product Management](https://www.thisisproductmanagement.com/)
@@ -152,42 +152,3 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 
 ### Videos
 * [Product Management Playlist on Youtube](https://www.youtube.com/playlist?list=PLfdoT0RTNuSJfYfRAyweKSaAKgUVUS_0t)
-
-### Podcasts
-* Spotify - [Product Management Podcast Playlist](https://open.spotify.com/playlist/2Th6yrQE0HG30Q9jxHhohq?si=50a0f262822d4ab0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
