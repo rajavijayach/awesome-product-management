@@ -18,6 +18,7 @@
 * [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
 * [Platform Revolution: How Networked Markets Are Transforming the Economy--and How to Make Them Work for You](https://www.goodreads.com/book/show/25622861-platform-revolution)
 * [EMPOWERED: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered)
+* [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/en/book/show/42611483)
 
 ## Startups
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
