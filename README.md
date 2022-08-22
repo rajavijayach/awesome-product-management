@@ -71,6 +71,7 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 - [Technology](./books/#newsletter)
 - [Metrics](./books/#growth)
 - [Design](./books/#communities)
+- [Engineering](./books/#engineering)
 - [Communication](./books/#product-managers)
 
 ### [Interviews](./interviews)
