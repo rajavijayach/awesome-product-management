@@ -14,6 +14,7 @@
 * [NPS](#nps)
 * [Growth](#growth)
 * [Engagement](#engagement)
+* [Engineering](#engineering)
 * [Opportunity](#opportunity)
 * [Marketing](#marketing)
 * [Thinking](#thinking)
@@ -85,6 +86,10 @@
 ### Engagement
 * https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics/###close
 * https://clevertap.com/blog/cohort-analysis/
+
+
+### Engineering
+* [The Pragmatic Engineer Newsletter: Year 1](https://docs.google.com/document/d/1W2GYxDfzwvrxaU445qbTnd4kcJ8YCTSOJaHgo2ra8jY/edit)
 
 
 ### Opportunity
