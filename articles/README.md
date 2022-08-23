@@ -89,6 +89,7 @@
 
 
 ### Engineering
+* [Technical Terms and Concepts](https://airtable.com/shrGh8BqZbkfkbrfk/tbluZ3ayLHC3CKsDb)
 * [The Pragmatic Engineer Newsletter: Year 1](https://docs.google.com/document/d/1W2GYxDfzwvrxaU445qbTnd4kcJ8YCTSOJaHgo2ra8jY/edit)
 
 
