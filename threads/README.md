@@ -45,11 +45,6 @@
 * [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896)
 
 
-### Interviews
-* [Cracking PM interviews](https://twitter.com/MotwaniSuhas/status/1119663991310168070)
-* [Tips on negotiating an job offer](https://twitter.com/sriramk/status/1221890836364812288)
-* [PM Interview Questions](https://twitter.com/hpdailyrant/status/1215519177194106880)
-
 ### Marketing 
 * [How to write a landing page title](https://twitter.com/GoodMarketingHQ/status/1215637286823526401)
 * [Marketing Lessons - Kyle Tibbitts](https://twitter.com/KyleTibbitts/status/1211005178985373696)

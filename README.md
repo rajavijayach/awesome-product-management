@@ -78,6 +78,8 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Courses](./interviews#courses)
 * [Books](./interviews#books)
 * [Mock Interviews](./interviews#mock-interviews)
+* [Threads](./interviews#threads)
+* [Articles](./interviews#articles)
 * [Additional Reads](./interviews#additional-reads)
 
 ### [Twitter Threads](./threads)
@@ -85,7 +87,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Product Management](./threads/#product-management)
 * [Growth](./threads/#growth)
 * [Mental Models](./threads/#mental-models)
-* [Interviews](./threads/#interviews)
 * [Marketing](./threads/#marketing)
 * [Business](./threads/#business)
 
@@ -142,7 +143,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Opportunity](./articles/#opportunity)
 * [Marketing](./articles/#marketing)
 * [First Principles](./articles/#first-principles)
-* [Interviews](./articles/#interviews)
 * [Additional Reading](./articles/#additional-reading)
 
 ### Newsletters
