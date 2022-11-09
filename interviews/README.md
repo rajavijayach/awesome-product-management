@@ -4,6 +4,8 @@
 * [Courses](#courses)
 * [Books](#books)
 * [Mock Interviews](#mock-interviews)
+* [Threads](#threads)
+* [Articles](#articles)
 * [Additional Reads](#additional-reads)
 
 ### Courses
