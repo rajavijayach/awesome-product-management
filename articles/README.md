@@ -116,6 +116,8 @@
 * Google : https://igotanoffer.com/blogs/product-manager/google-product-manager-interview
 * https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/
 * CIRCLES Method™ Product Design Framework : https://www.impactinterview.com/2016/06/circles-method-product-design-framework/
+* https://hackernoon.com/metrics-game-framework-5e3dce1be8ac
+* https://hackernoon.com/the-perfect-structure-for-every-product-management-interview-question-3eef80bbfeea
 
 ### Role 
 * https://a16z.com/2012/06/15/good-product-managerbad-product-manager/
