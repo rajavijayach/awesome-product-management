@@ -20,6 +20,9 @@
 * [Platform Revolution: How Networked Markets Are Transforming the Economy--and How to Make Them Work for You](https://www.goodreads.com/book/show/25622861-platform-revolution)
 * [EMPOWERED: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered)
 * [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/en/book/show/42611483)
+* [Jobs to be Done: Theory to Practice](https://www.goodreads.com/book/show/32809558-jobs-to-be-done)
+* [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
+* 
 
 ## Startups
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
@@ -30,13 +33,19 @@
 * [Ship It: Silicon Valley Product Managers Reveal All](https://www.goodreads.com/book/show/43205214-ship-it)
 * [Product Mindset](https://www.goodreads.com/book/show/45143467-product-mindset)
 * [The Product Book: How to Become a Great Product Manager](https://www.goodreads.com/book/show/35274263-the-product-book)
+* [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.goodreads.com/book/show/15824358-the-first-90-days)
+* [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 
 ## Customer Interviews
 * [The Mom Test](https://www.goodreads.com/book/show/18529000-the-mom-test)
 * [Talking to Strangers: What We Should Know About the People We Don’t Know](https://www.goodreads.com/book/show/43848929-talking-to-strangers)
+* [Interviewing Users: How to Uncover Compelling Insights](https://www.goodreads.com/book/show/17869520-interviewing-users)
+
 
 ## Decision Making
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
+* [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
+* [The Decision Checklist: A Practical Guide to Avoiding Problems](https://www.goodreads.com/book/show/40025817-the-decision-checklist)
 
 ## Strategies
 * Business Strategy - [Swipe to Unlock: The Primer on Technology and Business Strategy](https://www.goodreads.com/book/show/36271740-swipe-to-unlock)
@@ -46,6 +55,7 @@
 
 ## Technology
 * [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.goodreads.com/book/show/38242135-ai-superpowers)
+* [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/book/show/36484703-prediction-machines)
 
 ## Metrics
 * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with Okrs](https://www.goodreads.com/book/show/37902327-measure-what-matters)
@@ -57,9 +67,14 @@
 * [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 * [Lean UX: Applying Lean Principles to Improve User Experience](https://www.goodreads.com/book/show/13436116-lean-ux)
 * [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.goodreads.com/book/show/841.Emotional_Design)
+* [Well-Designed: How to Use Empathy to Create Products People Love](https://www.goodreads.com/book/show/21413972-well-designed)
+* [Build Better Products: A Modern Approach to Building Successful User-Centered Products](https://www.goodreads.com/book/show/32856562-build-better-products)
 
 ## Engineering
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/en/book/show/48816586)
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
+* [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+* [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui)
 
 ## Communication
 * Negotiation - [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
