@@ -48,6 +48,7 @@
 
 ## Metrics
 * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with Okrs](https://www.goodreads.com/book/show/37902327-measure-what-matters)
+* [Lean Analytics: Use Data to Build a Better Startup Faster](https://www.goodreads.com/book/show/16033602-lean-analytics)
 
 ## Design
 * [Solving Product Design Exercises: Questions & Answers](https://www.goodreads.com/book/show/38563044-solving-product-design-exercises)
@@ -60,4 +61,4 @@
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/en/book/show/48816586)
 
 ## Communication
-* [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
+* Negotiation - [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
