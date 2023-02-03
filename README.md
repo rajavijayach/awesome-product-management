@@ -94,7 +94,6 @@ Github Source - [Repo Link](https://github.com/rajavijayasaradhi/awesome-product
 * [Product School](https://www.productschool.com)
 * [PM School](https://pmschool.io)
 * [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036)
-    * [Product Design](https://www.udacity.com/course/product-design--ud509)
 * [Reforge](https://www.reforge.com/)
 * [Upraised](https://www.upraised.co/)
 
