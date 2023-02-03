@@ -41,6 +41,7 @@
 ## Strategies
 * Business Strategy - [Swipe to Unlock: The Primer on Technology and Business Strategy](https://www.goodreads.com/book/show/36271740-swipe-to-unlock)
 * Retention strategy - [Mastering Retention](https://www.productanalyticsplaybook.com/)
+* [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
 
 
 ## Technology
