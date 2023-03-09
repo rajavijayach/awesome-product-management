@@ -54,6 +54,7 @@
 * https://vwo.com/blog/how-to-calculate-ab-test-sample-size/
 * https://www.optimizely.com/sample-size-calculator/
 * https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size
+* https://hbr.org/2017/09/the-surprising-power-of-online-experiments
 
 
 ### Metrics
