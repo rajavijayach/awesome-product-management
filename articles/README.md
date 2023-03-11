@@ -13,6 +13,7 @@
 * [Competitors](#competitors)
 * [NPS](#nps)
 * [Growth](#growth)
+* [Decision Making](#decision)
 * [Engagement](#engagement)
 * [Engineering](#engineering)
 * [Opportunity](#opportunity)
@@ -82,6 +83,9 @@
 ### Growth
 * https://www.growthengblog.com/
 * https://marker.medium.com/the-untold-history-of-facebooks-most-controversial-growth-tool-2ea3bfeaaa66
+
+### Decision
+* https://coda.io/@gokulrajaram/gokuls-spade-toolkit
 
 
 ### Engagement
