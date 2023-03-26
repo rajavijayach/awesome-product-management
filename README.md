@@ -90,6 +90,7 @@ A collection of awesome things regarding Product Management
 * [Upraised](https://www.upraised.co/)
 
 ### Podcasts
+* [Lenny's Podcast: Product | Growth | Career](https://www.lennysnewsletter.com/podcast)
 * Spotify - [Product Management Podcast Playlist](https://open.spotify.com/playlist/2Th6yrQE0HG30Q9jxHhohq?si=50a0f262822d4ab0)
 * [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)
 * [The Product Podcast](https://www.productschool.com/product-podcast/)
@@ -120,6 +121,7 @@ A collection of awesome things regarding Product Management
 * [Additional Reading](./articles/#additional-reading)
 
 ### Newsletters
+* [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 * [Product Management++](https://turnaround.substack.com/p/product-management-)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 * [Stratechery](https://stratechery.com/)
