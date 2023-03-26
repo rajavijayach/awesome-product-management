@@ -90,7 +90,7 @@ A collection of awesome things regarding Product Management
 * [Upraised](https://www.upraised.co/)
 
 ### Podcasts
-* [Lenny's Podcast: Product | Growth | Career](https://www.lennysnewsletter.com/podcast)
+* [Lenny's Podcast on Product,Growth,Career](https://www.lennysnewsletter.com/podcast)
 * Spotify - [Product Management Podcast Playlist](https://open.spotify.com/playlist/2Th6yrQE0HG30Q9jxHhohq?si=50a0f262822d4ab0)
 * [Masters of Scale with Reid Hoffman, co-founder of LinkedIn](https://mastersofscale.com/)
 * [The Product Podcast](https://www.productschool.com/product-podcast/)
