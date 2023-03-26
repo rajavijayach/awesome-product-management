@@ -3,7 +3,6 @@
 ## Contents 
 * [Building Products](#building-products)
 * [Startups](#startups)
-* [Product Management](#product-management)
 * [Customer Interviews](#customer-interviews)
 * [Decision Making](#decision-making)
 * [Strategies](#strategies)
@@ -22,19 +21,16 @@
 * [EMPOWERED: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered)
 * [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/en/book/show/42611483)
 * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
-* 
-
-## Startups
-* [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
-* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-
-## Product Management
 * [Intercom on Product Management](https://www.goodreads.com/book/show/24999344-intercom-on-product-management)
 * [Ship It: Silicon Valley Product Managers Reveal All](https://www.goodreads.com/book/show/43205214-ship-it)
 * [Product Mindset](https://www.goodreads.com/book/show/45143467-product-mindset)
 * [The Product Book: How to Become a Great Product Manager](https://www.goodreads.com/book/show/35274263-the-product-book)
 * [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.goodreads.com/book/show/15824358-the-first-90-days)
 * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+
+## Startups
+* [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 
 ## Customer Interviews
 * [The Mom Test](https://www.goodreads.com/book/show/18529000-the-mom-test)
