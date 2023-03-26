@@ -7,6 +7,7 @@
 * [Customer Interviews](#customer-interviews)
 * [Decision Making](#decision-making)
 * [Strategies](#strategies)
+* [Frameworks](#frameworks)
 * [Technology](#technology)
 * [Metrics](#metrics)
 * [Design](#design)
@@ -20,7 +21,6 @@
 * [Platform Revolution: How Networked Markets Are Transforming the Economy--and How to Make Them Work for You](https://www.goodreads.com/book/show/25622861-platform-revolution)
 * [EMPOWERED: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered)
 * [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/en/book/show/42611483)
-* [Jobs to be Done: Theory to Practice](https://www.goodreads.com/book/show/32809558-jobs-to-be-done)
 * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
 * 
 
@@ -51,6 +51,10 @@
 * Business Strategy - [Swipe to Unlock: The Primer on Technology and Business Strategy](https://www.goodreads.com/book/show/36271740-swipe-to-unlock)
 * Retention strategy - [Mastering Retention](https://www.productanalyticsplaybook.com/)
 * [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
+
+## Frameworks
+* [Jobs to be Done: Theory to Practice](https://www.goodreads.com/book/show/32809558-jobs-to-be-done)
+* [Intercom on Jobs‑to‑be‑Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)
 
 
 ## Technology
