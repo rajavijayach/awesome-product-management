@@ -12,14 +12,17 @@
 * https://www.tryexponent.com/pm
 
 ### Books
-* https://www.goodreads.com/book/show/36412681-amazon-product-manager-interview
-* https://www.goodreads.com/book/show/32984007-amazon-product-manager-interview
 * https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview
+* https://www.lewis-lin.com/decode-and-conquer
+* https://www.lewis-lin.com/the-product-manager-interview-lewis-lin
 
 
 ### Mock Interviews
 * https://stellarpeers.com/
 * https://www.pramp.com/
+* Exponent Mock Interview Matching - https://www.tryexponent.com/
+* Lewis C. Lin's Interview Community - [Slack Invite Link](https://join.slack.com/t/pminterview/shared_invite/zt-1s3ma3zq9-b9zibsgo~nFoyrktSNTEpg)
+
 
 
 ### Threads
