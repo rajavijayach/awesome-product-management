@@ -60,6 +60,7 @@
 
 ### Metrics
 * https://www.sequoiacap.com/article/defining-product-success-metrics-and-goals
+* https://medium.com/sequoia-capital/tagged/sequoia-data-science
 * https://www.sachinrekhi.com/a-leaders-guide-to-metrics-reviews
 * https://medium.com/@pratikpoddar/you-are-reading-retention-wrong-eb8f07018e87
 * https://www.techinasia.com/the-importance-of-key-metrics-in-building-an-enduring-business
