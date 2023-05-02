@@ -91,7 +91,7 @@ A collection of awesome things regarding Product Management
 * [Upraised](https://www.upraised.co/)
 
 ### Courses
-* [Technical courses for Product Manager](https://nondevelopers.co/)
+* [Technical courses for Non Tech Product Managers](https://nondevelopers.co/)
 
 ### Podcasts
 * [Lenny's Podcast on Product,Growth,Career](https://www.lennysnewsletter.com/podcast)
