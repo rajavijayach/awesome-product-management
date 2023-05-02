@@ -8,6 +8,7 @@ A collection of awesome things regarding Product Management
 * [Interviews](#interviews)
 * [Twitter Threads](#twitter-threads)
 * [Online Schools](#online-schools)
+* [Courses](#courses)
 * [Podcasts](#podcasts)
 * [Articles](#articles)
 * [Newsletters](#newsletters)
@@ -88,6 +89,9 @@ A collection of awesome things regarding Product Management
 * [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036)
 * [Reforge](https://www.reforge.com/)
 * [Upraised](https://www.upraised.co/)
+
+### Courses
+* [Technical courses for Product Manager](https://nondevelopers.co/)
 
 ### Podcasts
 * [Lenny's Podcast on Product,Growth,Career](https://www.lennysnewsletter.com/podcast)
