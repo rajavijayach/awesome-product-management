@@ -133,3 +133,4 @@ A collection of awesome things regarding Product Management
 
 ### Videos
 * [Product Management Playlist on Youtube](https://www.youtube.com/playlist?list=PLfdoT0RTNuSJfYfRAyweKSaAKgUVUS_0t)
+* [Output vs. Outcome & Impact](https://vimeo.com/206617354/a4f8a1f8e8)
