@@ -51,6 +51,7 @@ Ready-to-use templates to streamline your product management processes
 * [Miroverse Templates](https://miro.com/miroverse/product-management/)
 * [Airtable Templates](https://www.airtable.com/templates/product-design-and-ux)
 * [Aha Guided templates](https://www.aha.io/roadmapping/guide/product-templates)
+* [PM Skills Library](https://github.com/product-on-purpose/pm-skills)
 
 ### Design
 
