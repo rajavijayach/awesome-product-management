@@ -172,6 +172,7 @@ Stay informed with in-depth articles covering the latest trends and strategies i
 
 Subscribe to newsletters delivering curated content directly to your inbox
 
+* [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, with ranked context for product leaders.
 * [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 * [The Oberver Effect](https://www.theobservereffect.org/)
 * [Stratechery](https://stratechery.com/)
