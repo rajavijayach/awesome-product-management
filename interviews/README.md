@@ -32,6 +32,8 @@ Practice and refine your responses through simulated product management intervie
 * [AI Mock Interviews and Feedback](https://app.yoodli.ai/home/)
 * [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 
+* [PMMockr](https://www.pmmockr.com) - Timed AI mock interviews for product managers, with follow-up questions and structured feedback. Free practice requires sign-in; company-specific banks require Premium.
+
 ## Interview Questions
 
 A compilation of interview questions curated to help prepare effectively for their product management job interviews
